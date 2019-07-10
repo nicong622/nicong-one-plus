@@ -1,0 +1,21 @@
+{
+    "name": "nicong-one-plus",
+    "displayName": "Nicong one plus",
+    "description": "a vscode theme based on Atom one light",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nicong one plus",
+                "uiTheme": "vs",
+                "path": "./themes/nicong-one-plus-color-theme.json"
+            }
+        ]
+    }
+}
