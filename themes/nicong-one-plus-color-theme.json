@@ -4,8 +4,9 @@
 	"colors": {
     "activityBar.background": "#f7f8fb",
     "activityBar.border": "#e7e8eb",
-    "activityBar.foreground": "#c194f1",
     "activityBar.inactiveForeground": "#9ba8af",
+    "activityBar.foreground": "#2d3561",
+
 
 		"button.background": "#5871EF",
 		"button.foreground": "#FFFFFF",
@@ -83,7 +84,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#b6d5e0"
+        "foreground": "#93b5b3"
       }
     },
     {
@@ -435,7 +436,7 @@
       "scope": "comment.block.documentation entity.name.type.instance.jsdoc, comment.block.documentation constant.other.email.link.underline.jsdoc",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#b6d5e0"
+        "foreground": "#93b5b3"
       }
     },
     {
